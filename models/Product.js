@@ -9,6 +9,19 @@ class Product extends Model {}
 // set up fields and rules for Product model
 Product.init(
   {
+    product_name:{
+      type: DataTypes.STRING
+    },
+    // how to declare integer with decimal points 
+    price:{
+      type: DataTypes.DECIMAL(10,2)
+    },
+    stock:{
+      type:DataTypes.INTEGER
+    },
+    category_id:{
+      type: DataTypes.INTEGER
+    }
     // define columns
   },
   {
