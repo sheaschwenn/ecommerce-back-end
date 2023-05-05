@@ -17,12 +17,12 @@ Back end functionality of an e-commerce website
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Walk Through Video](https://drive.google.com/file/d/1lOYxuebRo6OB_J4HZRCAQEZLuogTujlF/view)
 
 A back end for an e-commerce site utilizing sequelize to manipulate a stores database.  
 
 
-![Site Landing Page](./site.gif)
+![Insomnia get route](./Assets/Screenshot%202023-05-04%20183312.png)
 
 
 ## Table of Contents 
@@ -50,9 +50,7 @@ npm start
 
 Backend application for an e-commerce website.  Can be used to see, add, update and delete categories, tags and products for an e-commerce store. 
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+
 
 
 ## Learning Points 
